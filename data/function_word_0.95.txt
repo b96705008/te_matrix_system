@@ -1,0 +1,539 @@
+absent
+absorb
+abstract
+accommodate
+accumulate
+acquire
+acquit
+act
+actuate
+adhere
+adjudge
+admit
+affect
+agree
+airlift
+alter
+amalgamate
+amass
+amplify
+annul
+apply
+arise
+arrest
+assemble
+assimilate
+associate
+assort
+bank
+be active
+be adrift
+bear
+bear on
+behave
+bend
+bind
+blend
+block
+blow
+blow up
+boil
+bond
+book
+bow
+brace
+branch
+break
+break down
+break up
+bring about
+bring forth
+bring on
+bring out
+bring together
+bring up
+brush up
+bump off
+cabbage
+call
+carry
+carry on
+carve up
+change
+channel
+channelise
+channelize
+check
+chill
+churn
+circumvolve
+class
+classify
+clean
+clean house
+cleanse
+cleave
+cling
+close
+close down
+close up
+coalesce
+cohere
+collect
+colligate
+combine
+come apart
+come up
+commingle
+commix
+commute
+compile
+comport
+comprise
+concentrate
+concord
+concur
+condense
+conduct
+confine
+conflate
+conglomerate
+conjoin
+connect
+conserve
+contain
+continue
+contract
+control
+convert
+convey
+cool
+cool down
+cool off
+corrode
+countermand
+create
+crouch
+cuddle
+cumulate
+curb
+decay
+declare
+decompose
+deem
+deepen
+defend
+deflect
+deform
+defy
+delight
+demolish
+deport
+deposit
+desegregate
+destroy
+destruct
+detect
+dethaw
+develop
+differentiate
+digest
+disappear
+disband
+discharge
+discover
+discriminate
+disintegrate
+dismiss
+dispatch
+displace
+dissever
+dissolve
+distil
+distill
+distinguish
+disunite
+divide
+down
+draw
+draw close
+draw out
+dribble
+drift
+dry
+dry out
+eat
+eat at
+eat away
+educe
+eject
+elevate
+elicit
+embed
+enchant
+engage
+engraft
+engross
+engulf
+enrapture
+entertain
+enthral
+enthrall
+erode
+evaporate
+evoke
+exaggerate
+excerpt
+exchange
+exhaust
+expand
+expect
+expel
+express
+extend
+extract
+face-lift
+fade
+fade away
+fade out
+fall apart
+fall in
+farm
+filch
+filter
+filter out
+filtrate
+find
+fine-tune
+fire up
+fix
+flex
+float
+flux
+fold
+fold up
+forbid
+foreclose
+foregather
+forestall
+forgather
+fork
+free
+freeze
+freeze down
+freeze out
+fret
+furcate
+fuse
+gather
+gestate
+get
+get in touch
+get rid of
+get together
+get up
+give
+give rise
+give up
+gnaw
+gnaw at
+go
+go around
+go for
+go up
+grow
+guard
+halt
+harbor
+harbour
+have
+have a bun in the oven
+have got
+heat
+heat up
+hit
+hoard
+hoist
+hold
+hold back
+hold fast
+hold in
+hold up
+hook
+hot up
+houseclean
+hover
+hyperbolise
+hyperbolize
+ignite
+imbed
+imbibe
+immerse
+immix
+immobilise
+immobilize
+impart
+implant
+impress
+incite
+incorporate
+inflame
+inflate
+ingest
+insulate
+integrate
+interchange
+isolate
+issue
+join
+keep
+keep back
+keep up
+let go
+let go of
+liberate
+lift
+link
+link up
+locate
+locomote
+lodge
+loose
+magnify
+maintain
+make
+make a motion
+make clean
+meet
+meld
+mellow
+mellow out
+melt
+melt down
+merge
+mingle
+mix
+mix in
+moderate
+modify
+moil
+molder
+motivate
+moulder
+move
+move out
+move up
+murder
+nest
+nestle
+nobble
+notice
+nurse
+nuzzle
+obligate
+oblige
+observe
+obtain
+occupy
+off
+orient
+orientate
+oscillate
+overdraw
+overstate
+overturn
+pack
+part
+pen up
+percolate
+permeate
+persuade
+pick
+piece
+pile up
+pilfer
+pinch
+place
+plagiarise
+plagiarize
+plant
+plug in
+plug into
+plunge
+point
+polish
+polish off
+polish up
+posit
+post
+preclude
+preserve
+press out
+prevail
+prevent
+proceed
+produce
+prompt
+propel
+protect
+publish
+pull
+pull out
+pull up
+pulsations
+purloin
+put down
+put out
+put together
+raise
+ramify
+ravish
+rear
+refine
+relate
+release
+relinquish
+remove
+repeal
+rescind
+reserve
+resign
+resolve
+resonate
+restrain
+retain
+reverse
+revoke
+revolve
+rise
+roil
+roll up
+rot
+rotate
+round
+round off
+ruffle
+ruin
+run
+rust
+rustle
+save
+scavenge
+secern
+secernate
+secrete
+see through
+seethe
+send
+send for
+separate
+separate out
+set up
+settle
+severalise
+severalize
+shift
+shine
+ship
+shuffle
+shut down
+single out
+sink in
+site
+situate
+slay
+smooth
+smoothen
+snarf
+sneak
+snuggle
+soak up
+sop up
+sort
+sort out
+splay
+split
+split up
+spread out
+stabilise
+stabilize
+stand by
+steady
+steep
+stick
+stick by
+stick to
+stir up
+stock
+stockpile
+stoop
+stop
+stop dead
+strain
+strike
+strip
+suck
+suck up
+support
+suspend
+sustain
+sway
+swim
+swipe
+switch
+tack
+tack together
+tailor
+take
+take away
+take for
+take hold
+take in
+take out
+take over
+take up
+tell
+tell apart
+thaw
+thrill
+throw
+tickle
+tie
+tie in
+touch base
+transfer
+transmit
+transport
+travel
+trickle
+turn
+turn away
+turn back
+turn out
+turn up
+twist
+unblock
+unfreeze
+unify
+unite
+unloose
+unloosen
+unthaw
+uphold
+uprise
+vacate
+vacillate
+vaporise
+vaporize
+vary
+vibrate
+view as
+wake
+warm
+warm up
+wear away
+wedge
+weld
+wind
+withdraw
+withstand
